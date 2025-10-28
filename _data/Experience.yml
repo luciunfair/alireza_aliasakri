@@ -2,21 +2,19 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Yasan Academy
-    role: Project Manager
+  - title: Yasan Academy - part time
+    role: Python teacher
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Answering and solving questions of students
+    date: 2022 - Ongoing
+  - title: Shoroue Innovation Center - project base
+    role: Data science
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Successfully deployed a YOLOv5-based system to detect and blur three symbols in videos with 88% accuracy in challenging scenarios
+      - The project relied on a dataset entirely gathered and curated in-house
+    date: 2023-2025
+  - title: Rasad - part time
+    role: Data science/data analyst intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Predicting the best-performing stocks in the market based on interest rates
+    date: 2021 2022
