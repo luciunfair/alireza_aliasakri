@@ -12,7 +12,7 @@ contents:
     description: 
       - Successfully deployed a YOLOv5-based system to detect and blur three symbols in videos with 88% accuracy in challenging scenarios
       - The project relied on a dataset entirely gathered and curated in-house
-    date: 2023-2025
+    date: 2023 - 2025
   - title: Rasad - part time
     role: Data science/data analyst intern
     description: 
