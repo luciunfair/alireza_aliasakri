@@ -4,13 +4,15 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Tehran, MSc in IT
     description:
-      - Detection of encrypted file fragments (used in data recovery, cybersecurity, and malware detection)
+      - Detection of encrypted file fragments (usage: data recovery, cybersecurity, and malware detection)
       - Development of state-of-the-art statistical and machine learning methods, such as NIST, HEDGE, EnCoD, and BLFCP
       - Proposed an automated machine-learning method based on selected features that performs well in challenging scenarios such as inter-dataset evaluation, zero-shot cases, and compressed files
+    grade: "**GPA**: `4/4`"
     date: 2022 - Ongoing
   - title: University of Isfahan, BSc in Computer Science
     description:
-      - Deep understanding of machine learning, mathematics, and statistics
+      - tried to have Deep understanding of machine learning, mathematics, and statistics
+      - basics of programming (python,sql) and network
       
-    grade: "**GPA**: `4.1/4.3`"
+    grade: "**GPA**: `3.23/4`"
     date: 2016 - 2021
