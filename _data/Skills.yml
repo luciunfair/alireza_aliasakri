@@ -3,8 +3,10 @@ listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages & query languages
-    - description: "Python"
-    - description: "mySql" 
+    - description: 
+       - "Python"
+       - Sql
+
   - title: Frameworks & libraries
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
