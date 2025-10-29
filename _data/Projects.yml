@@ -4,17 +4,12 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "[Pytorch-based projects](https://github.com/luciunfair/pytorch-sample-projects)"
     description: 
-      - EnCoD; implement this [article](https://link.springer.com/article/10.1007/s00521-022-07586-7) from scratch
-      - BLFCP; implement this [article](https://www.worldscientific.com/doi/full/10.1142/S2196888823500070) from scratch
-      - binary_logistic_regression; practical implementaion
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - "EnCoD: implement this [article](https://link.springer.com/article/10.1007/s00521-022-07586-7) from scratch"
+      - "BLFCP: implement this [article](https://www.worldscientific.com/doi/full/10.1142/S2196888823500070) from scratch"
+      - "binary_logistic_regression: practical implementaion"
+  - title: "[Enc-fragment-extractor a Gui_app](https://github.com/luciunfair/Enc-fragment-extractor)"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - based on FreeSimpleGui from python
+      - use to Extracting fragments from a whole dataset/each file, Extracting features in parallel, combine csv files
+
+
