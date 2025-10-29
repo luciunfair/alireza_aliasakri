@@ -2,12 +2,10 @@ subject: Skills
 listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
-    description: "
-      python
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-    "
-  - title: Frameworks
+  - title: Programming Languages & query languages
+    - description: "Python"
+    - description: "mySql" 
+  - title: Frameworks & libraries
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
