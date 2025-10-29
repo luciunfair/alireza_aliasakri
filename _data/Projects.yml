@@ -6,10 +6,10 @@ contents:
     description: 
       - "EnCoD: implement this [article](https://link.springer.com/article/10.1007/s00521-022-07586-7) from scratch"
       - "BLFCP: implement this [article](https://www.worldscientific.com/doi/full/10.1142/S2196888823500070) from scratch"
-      - "binary_logistic_regression: practical implementaion"
+      - "Binary_logistic_regression: practical implementaion"
   - title: "[Enc-fragment-extractor a Gui_app](https://github.com/luciunfair/Enc-fragment-extractor)"
     description: 
-      - based on FreeSimpleGui from python
-      - use to Extracting fragments from a whole dataset/each file, Extracting features in parallel, combine csv files
+      - Based on FreeSimpleGui from python
+      - Use to Extract fragments from a whole dataset/each file, Extracting features in parallel, combine csv files
 
 
