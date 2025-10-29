@@ -4,16 +4,16 @@ icon: "/assets/img/trophy.svg"
 contents:
   - title: Deep learning ai
     description: [Neural networks and deep learning](https://coursera.org/share/b25cd9ffeb737483a911dba0ae32cc39)
-    date: 2023
+    date: "2023"
   - title: Deep learning ai
     description: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/b25cd9ffeb737483a911dba0ae32cc39)
-    date: 2023
+    date: "2023"
   - title: maktabkhooneh
     description: [Python Programming for Beginners](https://www.maktabkhooneh.org/certificates/MK-PV6RO5/)
-    date: 2018
+    date: "2018"
   - title: maktabkhooneh
     description: [Advanced Python Programming](https://www.maktabkhooneh.org/certificates/MK-TPVCJE/)
-    date: 2018
+    date: "2018"
   - title: maktabkhooneh
     description: [Develop an Online Shop using Wordpress](https://www.maktabkhooneh.org/certificates/MK-SXSEBG/)
-    date: 2020
+    date: "2020"
