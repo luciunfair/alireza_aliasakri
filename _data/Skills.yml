@@ -1,22 +1,22 @@
-subject: Skills
+subject: "Skills"
 listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages & query languages
-      description: 
-       - "Python"
-       - MySql
-       - Matlab
+  - title: "Programming Languages & Query Languages"
+    description:
+      - "Python"
+      - "MySQL"
+      - "MATLAB"
 
-  - title: Frameworks & libraries
-    description: 
-      - Scikit-learn & scipy
-      - Numpy & pandas
-      - Pytorch & TensorFlow & keras
-      - FLAML & autogluon
-      - Matplotlib 
-      - FreeSimpleGui
-      
+  - title: "Frameworks & Libraries"
+    description:
+      - "Scikit-Learn & SciPy"
+      - "NumPy & Pandas"
+      - "PyTorch, TensorFlow & Keras"
+      - "FLAML & AutoGluon"
+      - "Matplotlib"
+      - "PySimpleGUI"
+
     
 
     
