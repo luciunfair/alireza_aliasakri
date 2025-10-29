@@ -1,13 +1,19 @@
-subject: Awards
+subject: Certificates
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Deep learning ai
+    description: [Neural networks and deep learning](https://coursera.org/share/b25cd9ffeb737483a911dba0ae32cc39)
+    date: 2023
+  - title: Deep learning ai
+    description: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/b25cd9ffeb737483a911dba0ae32cc39)
+    date: 2023
+  - title: maktabkhooneh
+    description: [Python Programming for Beginners](https://www.maktabkhooneh.org/certificates/MK-PV6RO5/)
+    date: 2018
+  - title: maktabkhooneh
+    description: [Advanced Python Programming](https://www.maktabkhooneh.org/certificates/MK-TPVCJE/)
+    date: 2018
+  - title: maktabkhooneh
+    description: [Develop an Online Shop using Wordpress](https://www.maktabkhooneh.org/certificates/MK-SXSEBG/)
+    date: 2020
