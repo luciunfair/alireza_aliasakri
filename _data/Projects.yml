@@ -2,12 +2,11 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "[Pytorch-based projects](https://github.com/luciunfair/pytorch-sample-projects)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+      - EnCoD; implement this [article](https://link.springer.com/article/10.1007/s00521-022-07586-7) from scratch
+      - BLFCP; implement this [article](https://www.worldscientific.com/doi/full/10.1142/S2196888823500070) from scratch
+      - binary_logistic_regression; practical implementaion
   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
     description: 
       - Universal Command Line Interface for Amazone Web Services
