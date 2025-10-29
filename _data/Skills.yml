@@ -3,12 +3,20 @@ listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages & query languages
-    - description: 
+      description: 
        - "Python"
        - MySql
+       - Matlab
 
   - title: Frameworks & libraries
     description: 
+      - Scikit-learn & scipy
+      - Numpy & pandas
+      - Pytorch & TensorFlow & keras
+      - FLAML & autogluon
+      - Matplotlib 
+      - FreeSimpleGui
+      
     
 
     
